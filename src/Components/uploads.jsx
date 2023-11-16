@@ -64,7 +64,7 @@ const FileUpload = () => {
      <h3 class=" text-success">Thank you</h3>
      </div>
      <h6>file uploaded successfully </h6>
-     <h6 class="pb-3" >your records will be proceed shortly</h6>
+     <h6 class="pb-3" >your records will be processed shortly</h6>
     
      </div> 
        }
